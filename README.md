@@ -89,26 +89,6 @@ npm run build
 
 ---
 
-## 📸 Project Screenshots
-
-### 🖼️ Project Overview
-
-> Add your LinkedIn cover image here.
-
-### 🔄 n8n Workflow
-
-> Add screenshot of the workflow.
-
-### 💻 Weather Node Code
-
-> Add screenshot of the Weather.node.ts implementation.
-
-### ✅ Output
-
-> Add screenshot of the workflow execution output.
-
----
-
 ## 📊 Example Output
 
 | City | Country | Temperature | Humidity | Wind Speed |
